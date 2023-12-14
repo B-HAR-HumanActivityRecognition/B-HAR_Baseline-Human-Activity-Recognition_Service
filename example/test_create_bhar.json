@@ -1,0 +1,12 @@
+{
+  "username": "test_user",
+  "name": "test_bhar",
+  "dataset_path": "storage/test_user/WISDM_ar_v1.1_raw_250k.txt",
+  "dataset_sampling_frequency": 20,
+  "header_format": "sltd",
+  "filter_cutoff": 5,
+  "representation": "segmentation",
+  "segment_time": 10,
+  "train_test_split_method": "normal",
+  "normalization_method": "min-max"
+}

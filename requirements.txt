@@ -1,0 +1,16 @@
+keras
+numpy
+tensorflow==2.10.0
+scikit-learn
+pandas
+sensormotion
+imbalanced-learn
+tsfel
+keras-tuner
+matplotlib
+seaborn
+python-jose
+kaggle
+passlib[bcrypt]
+fastapi[all]
+tinydb
